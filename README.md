@@ -75,6 +75,14 @@ A simple yet efficient **Payroll Management System** built with **C#.NET (Window
 
 ![Login Page](screenshots/login.png)
 
+### Menu
+
+![Menu](screenshots/system_menu.png)
+
+### Settings
+
+![Settings](screenshots/Settings.png)
+
 ### Employee Management
 
 ![Employee Management](screenshots/employee.png)
@@ -85,7 +93,7 @@ A simple yet efficient **Payroll Management System** built with **C#.NET (Window
 
 ### Reports
 
-![Reports](screenshots/reports.png)
+![Reports](screenshots/report.png)
 
 ---
 
