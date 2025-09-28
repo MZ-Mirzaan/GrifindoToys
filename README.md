@@ -81,7 +81,7 @@ A simple yet efficient **Payroll Management System** built with **C#.NET (Window
 
 ### Settings
 
-![Settings](screenshots/Settings.png)
+![Settings](screenshots/settings.png)
 
 ### Employee Management
 
