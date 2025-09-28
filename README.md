@@ -47,19 +47,6 @@ A simple yet efficient **Payroll Management System** built with **C#.NET (Window
 
 ---
 
-## 📂 Project Structure
-
-```
-GrifindoToysPayroll/
-│── Forms/                  # Windows Forms UI  
-│── Database/               # SQL Scripts and schema  
-│── Models/                 # Employee, Salary, Settings models  
-│── Reports/                # Salary and payroll reports  
-│── README.md               # Documentation  
-```
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
